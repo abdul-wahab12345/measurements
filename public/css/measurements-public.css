@@ -1,0 +1,168 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+
+
+ 
+.measurements-slider-wrapper .swiper-slide
+{
+  display: flex;
+}
+.measurements-slider-wrapper .swiper-container
+{
+  height: 600px;
+}
+.pr-mm-product-types-tabs
+{
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+}
+.pr-mm-product-types-tab
+{
+  background-color: #fff;
+  color: grey;
+  font-weight: lighter;
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  padding: 9px 15px;
+  vertical-align: bottom;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.pr-mm-product-types-tab:hover
+{
+  background-color: #fff;
+  color: grey;
+  border-color: #ccc;
+}
+.active-product-type-tab
+{
+  margin-bottom: -1px;
+  background-color: #fff!important;
+  color: grey!important;
+  border-color: #ccc!important;
+}
+.pr-mm-product-types-tab-content
+{
+  margin-top: 10px;
+}
+.create-new-profile-btn
+{
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 5px 8px;
+  border-radius: 5px;
+  color: #000;
+  text-decoration: none!important;
+  font-size: 13px;
+  font-family: Roboto;
+}
+.save-mm-btn-container
+{
+  text-align: right;
+}
+.save-mm-btn
+{
+  background-color: #190bf0;
+  color: #fff;
+  border-radius: 3px;
+}
+.save-mm-btn:hover
+{
+  background-color: #190bf0;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.m_profile_name
+{
+  border: 1px solid rgb(204, 204, 204)!important;
+  background-color: #fff!important;
+  padding: 5px!important;
+  max-width: 170px!important;
+  border-radius: 3px!important;
+  margin-top: 5px!important;
+}
+.enter-profile-name-p
+{
+  font-size: 11px;
+  margin: 0;
+}
+.add-your-measurements-p
+{
+  font-size: 13px;
+  margin: 10px 0;
+}
+.measure-your-self-p
+{
+  color: rgb(40, 42, 43);
+  font-weight: bold;
+}
+.select-unit-of-measurement
+{
+  font-size: 11px;
+}
+.body-pic
+{
+  width: 50%!important;
+  height: 100%!important;
+  background-size: contain!important;
+  background-repeat: no-repeat!important;
+  background-position: right!important;
+}
+.pic-form-field-wrapper
+{
+  width: 50%;
+height: 100%;
+position: relative;
+}
+.pic-form-field-container
+{
+  max-width: 240px;
+position: absolute;
+top: 50%;
+transform: translateY(-50%);font-size: 12px;padding: 4px 7px;border: 1px solid #ccc;
+}
+.my-account-single-profile-container
+{
+  display: flex;
+  margin-top: 12px;
+}
+.profile-link
+{
+  width: 50%;
+}
+.delete-profile-link-container
+{
+  width: 50%;
+}
+.my-account-delete-profile-link
+{
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 5px 8px;
+  border-radius: 5px;
+  color: #000;
+  text-decoration: none!important;
+  font-size: 15px;
+  font-family: Roboto;
+}
+.create-new-profile-link-container
+{
+  margin-top: 15px;
+}
+.mm-input
+{
+  width: 100%;
+  margin: 4px 0;
+  background-color: #fff!important;
+  border: 1px solid #ccc!important;
+  border-radius: 4px;
+}
+.mm-input-disabled
+{
+  background-color: rgb(243, 230, 156)!important;
+}
