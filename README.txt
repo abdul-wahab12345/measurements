@@ -12,7 +12,9 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-This plugin add options in woocommerce product page based on wordpress admin side data, basically this for custom clothes sizes so people can add custom sizes. Also it adds some pages in woocommerce my account page from where customer can manage sizes and so on.
+This plugin add options in woocommerce product page based on wordpress admin side data,
+basically this for custom clothes sizes so people can add custom sizes. 
+Also it adds some pages in woocommerce my account page from where customer can manage sizes and so on.
 
 For backwards compatibility, if this section is missing, the full length of the short description will be used, and
 Markdown parsed.
